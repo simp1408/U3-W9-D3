@@ -1,5 +1,5 @@
 
-//ESERCIZIO TASSE
+//ESERCIZIO SULLE TASSE
 //-------------------------------
 
 // abstract class Dati{
@@ -70,6 +70,8 @@
 // console.log("utente1 : " + utente.getTasseInps());
 // console.log("utente1 : " +  utente.getTasseIrpef());
 // console.log("reddito anno netto dell' utente1 : " +utente.getRedditoAnnuoNetto());
+
+//ESERCIZIO PROF
 
 abstract class LavoratoriAutonomi{
 
